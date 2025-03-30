@@ -1,0 +1,20 @@
+Ticket_ID,Category,Resolution_Time,Satisfaction_Score
+TICKET_1,Technical Issue,9.41,2
+TICKET_2,Technical Issue,10.98,4
+TICKET_3,Technical Issue,7.93,5
+TICKET_4,Billing,1.42,4
+TICKET_5,Technical Issue,5.98,5
+TICKET_6,Product Support,9.89,7
+TICKET_7,Technical Issue,5.57,4
+TICKET_8,Account Access,2.17,4
+TICKET_9,Product Support,3.73,5
+TICKET_10,Billing,2.0,3
+TICKET_11,Product Support,6.83,5
+TICKET_12,Billing,1.52,4
+TICKET_13,Product Support,8.6,5
+TICKET_14,Technical Issue,5.14,6
+TICKET_15,General Inquiry,8.66,6
+TICKET_16,Billing,3.86,3
+TICKET_17,Account Access,3.6,3
+TICKET_18,General Inquiry,8.21,5
+TICKET_19,Product Support,3.17,8
