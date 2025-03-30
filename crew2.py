@@ -52,10 +52,10 @@ config = {
     },
 }
 
-sales_tool = CSVSearchTool(csv='/Users/swayampatil/Intership_assignment/sales_data.csv', config=config)
-marketing_tool = CSVSearchTool(csv='/Users/swayampatil/Intership_assignment/marketing_campaigns.csv', config=config)
-support_tool = CSVSearchTool(csv='/Users/swayampatil/Intership_assignment/customer_support.csv', config=config)
-finance_tool = CSVSearchTool(csv='/Users/swayampatil/Intership_assignment/financials.csv', config=config)
+sales_tool = CSVSearchTool(csv='sales_data.csv', config=config)
+marketing_tool = CSVSearchTool(csv='marketing_campaigns.csv', config=config)
+support_tool = CSVSearchTool(csv='customer_support.csv', config=config)
+finance_tool = CSVSearchTool(csv='inancials.csv', config=config)
 
 tool = SerperDevTool(
     api_key=SERPER_API_KEY,
